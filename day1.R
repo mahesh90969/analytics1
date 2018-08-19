@@ -8,3 +8,7 @@ git config --global user.name "mahesh90969"
 
 
 women
+help(women)
+
+x <- 1:100
+y <- seq(1,100,by=2)
